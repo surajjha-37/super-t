@@ -1,0 +1,46 @@
+.admission {
+  margin-top: 100px;
+  margin-left: 300px;
+  background-color: rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(10px);
+  color: rgb(27, 26, 26);
+  box-shadow: 10px 10px black;
+  font-family: roboto, sans-serif;
+  padding-bottom: 30px;
+  max-width: 500px;
+}
+.admission:hover {
+  background-color: darkred;
+  transition: 0.7s;
+  color: white;
+}
+b {
+  margin-left: 25px;
+}
+.open {
+  font-size: 25px;
+  color: black;
+  background-color: greenyellow;
+  font-family: roboto, sans-serif;
+  text-align: center;
+}
+body {
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+button {
+  width: 170px;
+  height: 25px;
+  background-color: blue;
+  color: white;
+  box-shadow: 5px 5px rgba(237, 4, 233, 0.655);
+}
+button:hover {
+  background-color: brown;
+}
+.radio {
+  border-style: solid;
+  width: 200px;
+  height: 25px;
+  box-shadow: 3px 3px black;
+}
