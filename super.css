@@ -175,6 +175,10 @@ select option {
   text-align: right;
   margin-top: -500px;
 }
-body{
-  background-size:cover;
+html,body{
+  height:100%;
+}
+*{
+  margin:0;
+  padding:0;
 }
