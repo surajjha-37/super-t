@@ -183,11 +183,13 @@ html,body{
     flex-wrap:wrap;}
 }
 
-.footer{
+footer{
   background-color:darkred;
   padding-top:50px;
   padding-bottom:50px; 
   color:white;
   text-align:center;
 }
-        
+.media{
+  font-size:15px;
+}
