@@ -182,3 +182,12 @@ html,body{
   .about{
     flex-wrap:wrap;}
 }
+
+.footer{
+  background-color:darkred;
+  padding-top:50px;
+  padding-bottom:50px; 
+  color:white;
+  text-align:center;
+}
+        
