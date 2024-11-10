@@ -4,11 +4,7 @@ body {
   margin: 0;
   padding: 0;
 }
-@media (max-width: 768px) {
-  body {
-    font-size: 14px;
-  }
-}
+
 img {
   height: 250px;
   width: 200px;
@@ -44,7 +40,7 @@ li {
   margin-left: 80px;
   text-align: justify;
   font-family: roboto, sans-serif;
-  max-width: 430px;
+  max-width: 600px;
 }
 .biography {
   margin-left: 80px;
