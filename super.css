@@ -53,10 +53,6 @@ nav a:hover {
   font-size: 50px;
 }
 
-.course {
-  display: flex;
-}
-
 select {
   text-decoration: none;
   margin-top: 250px;
@@ -120,7 +116,7 @@ select option {
   padding-bottom: 180px;
 }
 .paragraph {
-  max-width: 500px;
+  max-width: 600px;
   background-color: white;
   margin: auto;
   margin-top: 70px;
@@ -141,7 +137,7 @@ select option {
   transition: 0.7s;
 }
 .contact {
-  max-width: 300px;
+  max-width: 600px;
   background-color: white;
   box-shadow: 10px 15px 5px black;
 }
