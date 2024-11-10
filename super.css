@@ -81,7 +81,7 @@ select option {
   font-family: roboto, sans-serif;
   margin-top: 250px;
   margin-left: 30px;
-  
+  display:flex;
   align-items: center;
 }
 .link {
