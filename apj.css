@@ -35,14 +35,14 @@ img {
   text-align: justify;
   margin-right: 80px;
   font-family: roboto, sans-serif;
-  color:darkgrey;
+  color:darkred;
 }
 li {
   margin-left: 80px;
   text-align: justify;
   font-family: roboto, sans-serif;
   max-width: 800px;
-  color:darkgrey;
+  color:darkred;
 }
 .biography {
   margin-left: 80px;
