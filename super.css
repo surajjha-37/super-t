@@ -52,6 +52,9 @@ nav a:hover {
 .s {
   font-size: 50px;
 }
+.course{
+  display:flex;
+}
 
 select {
   text-decoration: none;
@@ -78,7 +81,7 @@ select option {
   font-family: roboto, sans-serif;
   margin-top: 250px;
   margin-left: 30px;
-  display: flex;
+  
   align-items: center;
 }
 .link {
@@ -140,6 +143,7 @@ select option {
   max-width: 600px;
   background-color: white;
   box-shadow: 10px 15px 5px black;
+  margin:auto;
 }
 .information {
   margin-left: 30px;
