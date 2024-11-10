@@ -1,0 +1,65 @@
+body {
+  border-style: solid;
+  background-color: #eadfff;
+  margin: 0;
+  padding: 0;
+}
+@media (max-width: 768px) {
+  body {
+    font-size: 14px;
+  }
+}
+img {
+  height: 250px;
+  width: 200px;
+  margin-top: 100px;
+  margin-left: 80px;
+  box-shadow: 0px 0px 5px 5px purple;
+  border-radius: 100px;
+}
+
+.apj {
+  font-family: roboto, sans-serif;
+  padding-bottom: 5px;
+  text-align: right;
+  margin-right: 80px;
+}
+
+.year {
+  margin-top: -30px;
+  text-align: right;
+  margin-right: 80px;
+}
+.simple {
+  font-family: roboto, sans-serif;
+  margin-left: 80px;
+}
+.paragraph {
+  margin-left: 80px;
+  text-align: justify;
+  margin-right: 80px;
+  font-family: roboto, sans-serif;
+}
+li {
+  margin-left: 80px;
+  text-align: justify;
+  font-family: roboto, sans-serif;
+  max-width: 430px;
+}
+.biography {
+  margin-left: 80px;
+  font-family: sans-serif;
+}
+.read {
+  text-align: right;
+  margin-top: 50px;
+  padding-bottom: 50px;
+  margin-right: 80px;
+}
+span {
+  color: red;
+  font-family: roboto, sans-serif;
+}
+.justify {
+  margin-top: 80px;
+}
