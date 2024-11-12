@@ -54,6 +54,7 @@ body {
 .component {
   color: black;
 }
+a{text-decoration:none;}
 .library {
   color: #0437f2;
 }
