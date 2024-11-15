@@ -42,7 +42,7 @@ body {
   color: black;
 }
 .my {
-  color: #0437f2;
+  color:darkred;
 }
 .check {
   text-align: center;
@@ -88,7 +88,7 @@ a{text-decoration:none;
 .simple {
 }
 button {
-  background-color: darkblue;
+  background-color:darkred;
   color: white;
   width: 350px;
   padding: 8px 0;
@@ -97,7 +97,7 @@ button {
   margin-bottom: 3px;
 }
 button:hover {
-  background-color: red;
+  background-color: darkyellow;
 }
 footer {
   background-color: #00072d;
