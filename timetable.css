@@ -1,0 +1,69 @@
+body {
+  background: linear-gradient(to bottom, #1f2883, #d3bfe6, #b277ea);
+  height: 100vh;
+  background-repeat: no-repeat;
+}
+h1 {
+  color: #66fcf1;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  text-align: center;
+}
+.breif {
+  max-width: 600px;
+  font-weight: bold;
+  font-size: 15px;
+  color: rgb(240, 240, 240);
+  text-align: justify;
+  margin: auto;
+
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.main {
+  background-color: rgb(5, 5, 53);
+  height: 570px;
+  width: 1400px;
+  margin-top: 100px;
+  border-radius: 30px;
+  box-shadow: 0px 0px 5px 1px #66fcf1;
+}
+.cover {
+  display: flex;
+
+  justify-content: center;
+}
+table {
+  margin-top: 50px;
+  color: darkblue;
+  margin-left: 80px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+th {
+  width: 150px;
+  background-color: #66fcf1;
+}
+tr {
+  background-color: white;
+}
+tr:hover {
+  background-color: yellow;
+  color: darkred;
+}
+a {
+  text-decoration: solid;
+  color: #1f2883;
+  background-color: #66fcf1;
+  margin-left: 500px;
+  padding: 3px;
+}
+h2 {
+  color: white;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 20px;
+  margin-left: 300px;
+  margin-top: 50px;
+}
+a:hover {
+  background-color: yellow;
+  color: darkred;
+}
