@@ -67,3 +67,11 @@ a:hover {
   background-color: yellow;
   color: darkred;
 }
+@media (max-width: 480px) {
+  body {
+    font-size: 12px;
+  }
+  .cover {
+    padding: 5px;
+  }
+}
