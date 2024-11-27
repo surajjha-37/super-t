@@ -67,11 +67,3 @@ a:hover {
   background-color: yellow;
   color: darkred;
 }
-@media only screen and (max-width: 768px) {
-    body {
-        font-size: 14px;
-    }
-    .main {
-        width: 100%;
-    }
-}
