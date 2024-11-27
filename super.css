@@ -179,17 +179,14 @@ select option {
 html,body{
   height:100%;
 }
-@media only screen and (max-width:600px){
-  .about{
-    flex-wrap:wrap;}
-}
-
-footer{
-  background-color:darkred;
-  padding-top:50px;
-  padding-bottom:50px; 
-  color:white;
-  text-align:center;
+@media only screen and (max-width: 768px) {
+    
+    body {
+        font-size: 14px;
+    }
+    .cover {
+        width: 100%;
+    }
 }
 .media{
   font-size:15px;
