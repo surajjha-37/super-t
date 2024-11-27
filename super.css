@@ -7,8 +7,9 @@ header {
 
 .hero {
   background-image: url("./suraj.jpg");
-  background:100% 100% 
+  background:100% 100%; 
     background-size:cover;
+  background-repeat:no-repeat;
 .main {
   color: rgb(242, 255, 0);
   font-size: 35px;
