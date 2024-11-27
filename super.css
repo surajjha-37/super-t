@@ -179,15 +179,3 @@ select option {
 html,body{
   height:100%;
 }
-@media only screen and (max-width: 768px) {
-    
-    body {
-        font-size: 14px;
-    }
-    .cover {
-        width: 100%;
-    }
-}
-.media{
-  font-size:15px;
-}
