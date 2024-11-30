@@ -13,6 +13,8 @@ body {
 .main {
   text-align: center;
   display: flex;
+  flex-wrap:wrap; 
+  
   margin-top: 10%;
 }
 .firstdiv {
