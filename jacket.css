@@ -18,11 +18,11 @@ body {
 }
 .firstdiv {
   background-color: white;
-  box-shadow: 10px 5px rgb(7, 7, 7);
+  
 }
 .seconddiv {
   background-color: white;
-  box-shadow: 10px 5px rgb(7, 7, 7);
+ 
 }
 
 .first {
@@ -57,7 +57,7 @@ button:hover {
 .cardone {
   background-color: aliceblue;
   max-width: 320px;
-  box-shadow: 10px 10px black;
+ 
   text-align: center;
   padding-bottom: 15px;
 }
