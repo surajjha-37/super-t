@@ -4,6 +4,7 @@ body {
   height: 100vh;
   width: 100%;
   background-repeat: no-repeat;
+  margin:0px;
 }
 .container {
   display: flex;
@@ -18,10 +19,13 @@ body {
 }
 .firstdiv {
   background-color: white;
+  box-shadow:10px 10px black;
   
 }
 .seconddiv {
   background-color: white;
+  box-shadow:10px 10px black;
+  
  
 }
 
@@ -57,7 +61,8 @@ button:hover {
 .cardone {
   background-color: aliceblue;
   max-width: 320px;
- 
+ box-shadow:10px 10px black;
+  
   text-align: center;
   padding-bottom: 15px;
 }
@@ -95,6 +100,7 @@ header {
   background-image: linear-gradient(bisque, orange);
   padding-bottom: 25px;
   border-radius: 10px;
+  margin:0px;
 }
 .shopping {
   color: darkred;
