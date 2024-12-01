@@ -22,15 +22,15 @@ body {
 
   
 }
-.fisrtdiv:hover{color:white;
-               background-color:darkorange;}
+.firstdiv:hover{color:white;
+               background-color:darkred;}
 .cardone:hover{color:white;
-               background-color:darkorange;}
+               background-color:darkred;}
 .seconddiv {
   background-color: white;
   
 }
-
+.seconddiv:hover{color:white; background-color:darkred;}
 .first {
   height: 300px;
   width: 250px;
