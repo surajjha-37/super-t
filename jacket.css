@@ -22,12 +22,18 @@ body {
 
   
 }
+.fisrtdiv:hover{color:white;
+               background-color:darkorange;}
+.cardone:hover{color:white;
+               background-color:darkorange;
 .seconddiv {
   background-color: white;
   
   
  
 }
+               .seconddiv:hover{color:white;
+               background-color:darkorange;}
 
 .first {
   height: 300px;
