@@ -23,18 +23,23 @@ body {
   
 }
 .firstdiv:hover{color:white;
-               background-color:darkred;}
+               background-color:darkred;
+               transition:0.7s;}
 .cardone:hover{color:white;
-               background-color:darkred;}
+               background-color:darkred;
+              transition:0.7s;}
 .seconddiv {
   background-color: white;
   
 }
-.seconddiv:hover{color:white; background-color:darkred;}
+.seconddiv:hover{color:white; background-color:darkred;
+                transition:0.7s;}
 .first {
   height: 300px;
   width: 250px;
 }
+.cardone a:hover{color:white;
+                transition:0.7s;}
 .color {
   background-color: antiquewhite;
   padding-left: 30px;
