@@ -175,10 +175,7 @@ select option {
   border-style: solid;
   border-color: darkred;
 }
-.newimg {
-  text-align: right;
-  margin-top: -500px;
-}
+
 html,body{
   height:100%;
 }
