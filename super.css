@@ -116,12 +116,14 @@ select option {
 }
 
 .about {
+  display:flex;
+  flex-wrap:wrap;
   background-color: lightgrey;
   margin-top: 10px;
   padding-bottom: 180px;
 }
 .paragraph {
-  max-width: 600px;
+  max-width: 500px;
   background-color: white;
   margin: auto;
   margin-top: 70px;
