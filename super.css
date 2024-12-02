@@ -119,7 +119,7 @@ select option {
 .about {
 
   background-color: lightgrey;
-  margin-top: 10px;
+  
   padding-bottom: 180px;
 }
 .paragraph {
@@ -179,3 +179,7 @@ select option {
 html,body{
   height:100%;
 }
+footer{text-align:center;
+       background-color:darkred;
+       padding:15px;
+       color:white;}
