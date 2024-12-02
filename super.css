@@ -178,8 +178,9 @@ select option {
 .newimg{margin-top:50px;}
 html,body{
   height:100%;
+  margin:0;
 }
 footer{text-align:center;
        background-color:darkred;
-       padding:15px;
+       padding:25px;
        color:white;}
