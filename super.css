@@ -135,7 +135,7 @@ select option {
   padding-right: 30px;
   padding-bottom: 15px;
   padding-top: 15px;
-  box-shadow: 10px 15px 5px black;
+ 
   max-width:500px;
 }
 .start:hover {
@@ -144,9 +144,9 @@ select option {
   transition: 0.7s;
 }
 .contact {
-  max-width: 600px;
+  max-width: 350px;
   background-color: white;
-  box-shadow: 10px 15px 5px black;
+
   margin:auto;
 }
 .information {
@@ -175,7 +175,7 @@ select option {
   border-style: solid;
   border-color: darkred;
 }
-
+.newimg{margin-top:50px;}
 html,body{
   height:100%;
 }
