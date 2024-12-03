@@ -171,10 +171,6 @@ select option {
 .intro {
   font-size: 20px;
 }
-.border {
-  border-style: solid;
-  border-color: darkred;
-}
 .newimg{margin-top:50px;}
 html,body{
   height:100%;
