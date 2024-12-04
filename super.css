@@ -11,8 +11,10 @@ header {
 }
 .inline {
   display: flex;
-  justify-content:right;
+ 
 }
+.right{display:flex;
+              justify-content:right;}
 .imggg {
   height: 60px;
   width: 60px;
