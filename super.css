@@ -6,7 +6,17 @@ header {
   
  
 }
-.flex{display:flex;}
+.mainn {
+  display: flex;
+}
+.inline {
+  display: flex;
+  margin-left: 1000px;
+}
+.imggg {
+  height: 60px;
+  width: 60px;
+}
 .hero {
   background-image: url("./suraj.jpg");
   background-size:100% 100%; 
