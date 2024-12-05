@@ -11,7 +11,7 @@ header {
 }
 .inline {
   display: flex;
-  text-align:right;
+  float:right;
  
 }
 .right{display:flex;
