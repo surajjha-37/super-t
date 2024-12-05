@@ -3,7 +3,7 @@ header {
 
   padding-bottom: 18px;
   padding-top: 18px;
-  
+.logo{  float:right;}  
  
 }
 .mainn {
@@ -11,7 +11,7 @@ header {
 }
 .inline {
   display: flex;
-  float:right;
+
  
 }
 .right{display:flex;
