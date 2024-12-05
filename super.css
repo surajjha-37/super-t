@@ -14,7 +14,7 @@ header {
  
 }
 .right{display:flex;
-              justify-content:right;}
+      flex-start:end;}
 .imggg {
   height: 60px;
   width: 60px;
