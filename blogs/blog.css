@@ -26,7 +26,7 @@ body {
 }
 h1 {
   color: white;
-  font-size: 55px;
+  font-size: 5vh;
   text-align: center;
   margin-top: 30px;
 }
@@ -76,6 +76,7 @@ nav a:hover {
   padding-left: 3px;
   padding-right: 3px;
 }
+.blogs a:hover{color:white;}
 .align {
   display: flex;
   flex-wrap: wrap;
@@ -84,10 +85,11 @@ nav a:hover {
   margin-left: 50px;
 }
 .blogs:hover {
-  color: black;
-  background-color: orangered;
+  background-color:darkred;
 }
-.footer{margin-top:100%;
+.footer{margin-top:100vh;
         background-color:yellow;
        }
 footer{color:black;}
+.span{color:black;}
+.span:hover{color:yellow;}
