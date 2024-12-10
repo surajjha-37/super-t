@@ -60,18 +60,19 @@ nav a:hover {
   background-color: rgb(158, 90, 6);
 }
 .blogs a {
-  color: white;
+  color: Darkred;
+  font-weight:bold;
   text-decoration: none;
   font-size: 25px;
 }
 .blogs {
-  background-color:white;;
+  background-color:white;
   max-width: 200px;
   height: 100px;
   display: flex;
   align-items: center;
   margin-top: 30px;
-  box-shadow: 3px 3px black;
+  box-shadow: 3px 5px black;
   padding-left: 3px;
   padding-right: 3px;
 }
