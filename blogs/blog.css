@@ -65,13 +65,13 @@ nav a:hover {
   font-size: 25px;
 }
 .blogs {
-  background-color: black;
+  background-color:white;;
   max-width: 200px;
-  height: 50px;
+  height: 100px;
   display: flex;
   align-items: center;
   margin-top: 30px;
-  box-shadow: 0px 0px 3px 5px yellow;
+  box-shadow: 3px 3px black;
   padding-left: 3px;
   padding-right: 3px;
 }
@@ -86,3 +86,7 @@ nav a:hover {
   color: black;
   background-color: orangered;
 }
+.footer{margin-top:100%;
+        background-color:yellow;
+       }
+footer{color:black;}
