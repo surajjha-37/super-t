@@ -12,7 +12,7 @@ header {
 .inline {
   display: flex;
 
-@media (width:600px) {
+@media (max-width:600px) {
   body {
   background: linear-gradient(45deg, #b700ff, #d30d6c, #001eff);
   background-size: 400% 400%;
