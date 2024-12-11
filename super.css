@@ -2,15 +2,15 @@ header {
   background-image: linear-gradient(darkred,red);
 
   padding-bottom: 18px;
-  padding-top: 18px;
+  padding-top: 18px;}
 .logo{  float:right;}  
  
-}
+
 .mainn {
   display: flex;
 }
 .inline {
-  display: flex;
+  display: flex;}
 
 @media (max-width:600px) {
   .hero {
