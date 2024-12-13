@@ -69,7 +69,7 @@ nav a:hover {
 }
 @media (max-width: 600px) {
   .intro {
-  max-width:350px;
+  max-width:335px;
   }
 }
 @media (max-width: 1024px) {
@@ -89,7 +89,7 @@ nav a:hover {
   }
 }
 .firstp {
-  width: 400px;
+  width: 330px;
   margin-left: 15px;
 }
 .divsmaster {
