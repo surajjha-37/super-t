@@ -6,6 +6,13 @@ body {
   font-family: roboto, sans-serif;
   background-color: #1c3b5a;
 }
+@media (max-width:600px) {
+.main{margin-left:15px;
+     margin-right:15px;}
+
+
+  
+}
 .container {
   height: 100vh;
   margin: 25px;
