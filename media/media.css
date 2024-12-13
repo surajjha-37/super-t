@@ -42,7 +42,7 @@ nav a:hover {
   color: yellow;
 }
 .intro {
-  max-width: 500px;
+  width: 500px;
   height: 150px;
 
   background-color: white;
@@ -88,7 +88,7 @@ nav a:hover {
   }
 }
 .firstp {
-  width: 330px;
+  width: 320px;
   margin-left: 15px;
   text-align:justify;
   
