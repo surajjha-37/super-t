@@ -42,7 +42,7 @@ nav a:hover {
   color: yellow;
 }
 .intro {
-  width: 450px;
+  max-width: 500px;
   height: 150px;
 
   background-color: white;
@@ -55,7 +55,7 @@ nav a:hover {
     flex-wrap: wrap;
   }
 }
-@media (max-width: 1024px) {
+@media (max-width: 768px) {
   .divs {
     display: flex;
     flex-wrap: wrap;
@@ -66,16 +66,19 @@ nav a:hover {
     display: flex;
     flex-wrap: wrap;
   }
-    .intro {
-  width:350px;
-    }
+  .intro {
+    width: 350px;
+  }
+  .firstp {
+    max-width: 320px;
+    text-align: justify;
+  }
 }
 
-@media (max-width: 1024px) {
+@media (max-width: 768px) {
   .divsmaster {
     display: flex;
 
-    flex-wrap: wrap;
     justify-content: center;
   }
 }
@@ -88,10 +91,8 @@ nav a:hover {
   }
 }
 .firstp {
-  width: 320px;
+  width: 400px;
   margin-left: 15px;
-  text-align:justify;
-  
 }
 .divsmaster {
   height: 100%;
