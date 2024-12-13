@@ -67,7 +67,7 @@ nav a:hover {
     flex-wrap: wrap;
   }
     .intro {
-  max-width:340px;
+  width:350px;
     }
 }
 
