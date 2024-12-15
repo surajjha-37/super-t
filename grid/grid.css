@@ -78,8 +78,8 @@ nav a:hover {
 
 @media (max-width: 600px) {
   .column {
-    display:grid;
-    grid-template-columns: 1fr;
+display:flex;
+    flex-direction:column;
   }
   .input {
     max-width: 280px;
