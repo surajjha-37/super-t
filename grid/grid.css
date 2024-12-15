@@ -80,9 +80,7 @@ nav a:hover {
   .column {
     grid-template-columns: 1fr;
   }
-  .input {
-    width: 300px;
-  }
+  
 
   .about {
     width: 350px;
