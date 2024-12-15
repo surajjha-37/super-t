@@ -81,24 +81,24 @@ nav a:hover {
     grid-template-columns: 1fr;
   }
   .input {
-    max-width: 300px;
+    max-width: 280px;
     margin-top: 15px;
   }
 
   .about {
-    width: 350px;
+    width: 330px;
   }
   .course {
-    width: 350px;
+    width: 3300px;
   }
   .contact {
-    width: 350px;
+    width: 330px;
   }
   .inputtt {
     width: 300px;
   }
   button {
-    width: 300px;
+    width: 280px;
   }
 }
 .course {
