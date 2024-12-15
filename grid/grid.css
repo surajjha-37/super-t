@@ -168,6 +168,7 @@ nav a:hover {
   display: grid;
   grid-template-rows: rows;
   gap: 15px;
+  max-width:500px;
   background-color: whitesmoke;
   padding: 15px;
   border-radius: 15px;
