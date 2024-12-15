@@ -81,7 +81,8 @@ nav a:hover {
     grid-template-columns: 1fr;
   }
   .input {
-    width: 300px;
+    max-width: 300px;
+    margin-top: 15px;
   }
 
   .about {
