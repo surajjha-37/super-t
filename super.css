@@ -1,6 +1,6 @@
 header {
   background-image: linear-gradient(darkred,red);
-
+margin-top:30px;
   padding-bottom: 18px;
   padding-top: 18px;}
 .logo{  float:right;}  
@@ -82,6 +82,7 @@ nav a:hover {
 }
 .course{
   display:flex;
+  margin-bottom:80px;
 }
 
 select {
